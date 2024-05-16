@@ -50,5 +50,8 @@
         echo "~selesai menghitung~";
     }
     ?>
+<p>Sabdha Putra Laudri</p>
+<p>202143501480</p>
+<p>R6P</p>
 </body>
 </html>
